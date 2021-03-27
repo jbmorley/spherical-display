@@ -1,2 +1,3 @@
-# spherical-display
+# Spherical Display
+
 LED spinning spherical display
