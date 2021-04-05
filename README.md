@@ -22,13 +22,7 @@ LED spinning spherical display
 | DC Motor + Stepper FeatherWing Add-on For All Feather Boards | [Adafruit][adafruit]   | 2927   | https://www.adafruit.com/product/2927                        | 1        |
 | Miniature Slip Ring - 12mm diameter, 12 wires, max 240V @ 2A | [Adafruit][adafruit]   | 1195   | https://www.adafruit.com/product/1195                        | 1        |
 | Adafruit HUZZAH32 – ESP32 Feather Board                      | [Adafruit][adafruit]   | 3405   | https://www.adafruit.com/product/3405                        | 1        |
-|                                                              |                        |        |                                                              |          |
-|                                                              |                        |        |                                                              |          |
-|                                                              |                        |        |                                                              |          |
-|                                                              |                        |        |                                                              |          |
-|                                                              |                        |        |                                                              |          |
 | LEDs                                                         |                        |        |                                                              |          |
-|                                                              |                        |        |                                                              |          |
 
 [servocity]: https://www.servocity.com/	"ServoCity"
 [adafruit]: https://www.adafruit.com/	"Adafruit"
