@@ -1,6 +1,6 @@
 # Spherical Display
 
-LED spinning spherical display
+Persistence of vision spherical display
 
 ## Components
 
